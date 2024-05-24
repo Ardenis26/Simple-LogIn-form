@@ -1,2 +1,2 @@
-# Simple-LogIn-form
 Simple LogIn form 
+Simple Register form
